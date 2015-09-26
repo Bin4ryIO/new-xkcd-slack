@@ -5,7 +5,7 @@ So you're chatting in Slack, and there's a new xkcd out. Your RSS reader isn't o
 ## Installation
 
 1. Download this repository
-2. Set the Slack hook URL, bot name and bot image URL in xkcd-slack.py
+2. Set the Slack hook URL, bot name and bot image URL in new-xkcd-slack.py
 3. Setup a cron job to run the python script (eg. '0 0,4,8,12,16,20 * * * /path/to/new-xkcd-slack.py')
 
 ## License
