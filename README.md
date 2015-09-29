@@ -9,6 +9,12 @@ So you're chatting in Slack, and there's a new xkcd out. Your RSS reader isn't o
 3. Install dependencies using 'pip install -r requirements.txt'
 4. Setup a cron job to run the python script (eg. '0 0,4,8,12,16,20 * * * root ./path/to/new-xkcd-slack.py')
 
+## Screenshot
+
+![bot.png](Screenshot of xkcdbot posting a new xkcd comic)
+
+(Note: the comic and alt text is licensed under a Creative Commons Attribution-NonCommercial 2.5 License)
+
 ## License
 
 The code is licensed under the MIT license (found in the LICENSE file).
