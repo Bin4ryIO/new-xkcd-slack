@@ -11,7 +11,7 @@ So you're chatting in Slack, and there's a new xkcd out. Your RSS reader isn't o
 
 ## Screenshot
 
-![bot.png](Screenshot of xkcdbot posting a new xkcd comic)
+![Screenshot of xkcdbot posting a new xkcd comic](bot.png)
 
 (Note: the comic and alt text is licensed under a Creative Commons Attribution-NonCommercial 2.5 License)
 
