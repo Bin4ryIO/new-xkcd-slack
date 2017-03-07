@@ -15,7 +15,7 @@ import re
 
 ## Set these
 slackhookurl = ''
-botname = ''
+botname = 'xkcdbot'
 boticonurl = ''
 ##
 
